@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.o
+*.exe
+.env
+.vscode/
+.idea/
+build/

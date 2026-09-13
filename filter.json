@@ -1,0 +1,10 @@
+{
+  "vector": [1, 0, 0, 0],
+  "query": "laptop",
+  "k": 3,
+  "filter": {
+    "field": "available",
+    "op": "EQUAL",
+    "value": true
+  }
+}

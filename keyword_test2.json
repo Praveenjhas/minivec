@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "vector": [0, 0, 1, 0],
+  "text": "Lenovo external monitor",
+  "metadata": {
+    "brand": "Lenovo",
+    "price": 30000
+  }
+}

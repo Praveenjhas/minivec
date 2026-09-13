@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "vector": [0, 1, 0, 0],
+  "text": "Dell XPS laptop",
+  "metadata": {
+    "brand": "Dell",
+    "price": 90000
+  }
+}
